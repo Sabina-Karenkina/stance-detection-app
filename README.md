@@ -16,7 +16,7 @@ https://www.kaggle.com/datasets/morfifinka/fake-real-news-ru/data
 - Реализовано веб-приложение на Streamlit
 
 ##  Demo
-
+https://stance-detection-app-fivnw93bj2ucu6ymqizlsu.streamlit.app/
 
 ##  Технологии
 - Python
